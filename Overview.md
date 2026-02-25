@@ -3,6 +3,7 @@
 1. **For Graphics (DRM/KMS):** **[The Linux Kernel DRM Documentation](https://www.kernel.org/doc/html/latest/gpu/drm-kms.html)**. 
 2. **For Session/Security (Logind):** **[The `org.freedesktop.login1` Specification](https://www.google.com/search?q=%5Bhttps://www.freedesktop.org/wiki/Software/systemd/logind/%5D(https://www.freedesktop.org/wiki/Software/systemd/logind/))**. This documents the D-Bus API we used (`TakeControl`, `TakeDevice`).
 3. **For Input (evdev):** **[The Linux Input Subsystem Documentation](https://www.kernel.org/doc/html/latest/input/input.html)**.
+4. A series of articles explaining the Linux DRM API [DRM Doc](https://github.com/ascent12/drm_doc)
 
 I created this application as a means to make a DOS like game but on Linux. I've never personally seen any games run
 directly from a TTY on Linux before like you would traditionally run a DOS game. This is my attempt to make such a game.
